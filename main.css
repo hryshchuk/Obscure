@@ -536,7 +536,6 @@ button{
 
 .portfolio_item{
     max-width: 700px;
-    margin: 0px 370px;
 }
 
 .portfolio_buttons{
@@ -642,7 +641,8 @@ button{
         font-size: 38px;
     }
     .portfolio_item{
-        max-width: 448px;
+        max-width: 475px;
+
     }
 
     .about-me__section-title{
